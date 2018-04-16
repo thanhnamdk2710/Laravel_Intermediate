@@ -1,0 +1,28 @@
+<?php
+return [
+    'title' => 'Laravel Quickstart - Trung cấp',
+    'brand' => 'Danh sách công việc',
+    'language' => 'Ngôn ngữ',
+    'login' => 'Đăng nhập',
+    'register' => 'Đăng ký',
+    'logout' => 'Đăng xuất',
+    'email' => 'Địa chỉ Email',
+    'password' => 'Mật khẩu',
+    'remember' => 'Nhớ mật khẩu',
+    'forget' => 'Quên mật khẩu?',
+    'name' => 'Tên',
+    'confirm_password' => 'Mật khẩu xác thực',
+    'reset_password' => 'Lấy lại Mật khẩu',
+    'send_reset' => 'Gửi liên kết lấy mật khẩu',
+    'new_task' => 'Công việc mới',
+    'task_name' => 'Tên công việc',
+    'add' => 'Thêm',
+    'current_tasks' => 'Công việc hiện tại',
+    'delete' => 'Xoá',
+    'create_success' => 'Thêm công việc mới thành công!',
+    'create_error' => 'Thêm công việc mới thất bại!',
+    'delete_success' => 'Xoá công việc thành công!',
+    'delete_error' => 'Xoá công việc thất bại!',
+    'alert_errors' => 'Rất tiếc! Đã xảy ra lỗi!',
+    'name_required' => 'Trường tên công việc bắt buộc nhập.'
+];
